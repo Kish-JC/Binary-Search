@@ -1,4 +1,4 @@
-# Binary-Search (Task-2)
+# Binary-Search (Task-3)
 
 #task-3final
 
