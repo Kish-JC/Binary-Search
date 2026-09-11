@@ -1,6 +1,6 @@
-# Binary-Search (Task-3)
+# Binary-Search
 
-#task-3final
+#task-3
 
 import java.util.Arrays;
 import java.util.Scanner;
