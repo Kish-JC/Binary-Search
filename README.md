@@ -1,5 +1,5 @@
 # Binary-Search
-
+Task 3 modifies the `bSearch` method to print the values of `low`, `high`, and `mid` every time it's called, so you can watch the search interval. It shows, step by step, how each recursive call narrows down the range of the array until it either finds the target or runs out of elements to check.
 #task-3
 
 import java.util.Arrays;
